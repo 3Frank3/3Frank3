@@ -18,6 +18,12 @@ M.S. incoming student in Data Science at UCLA | Data Science | Machine Learning 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<h3 align="left">Top Repositories</h3>
+<a href="https://github.com/3Frank3/Text-Analysis-NCKU-Research-and-Development-Foundation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3Frank3&repo=Text-Analysis-NCKU-Research-and-Development-Foundation&show_icons=true&locale=en&layout=compact"" />
+</a>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=3Frank3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
