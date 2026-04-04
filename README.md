@@ -1,5 +1,5 @@
 # 💫 About Me:
-M.S. incoming student in Data Science at UCLA | Data Science | Machine Learning | LLM | NLP
+Master of Data Science in Health at UCLA | Data Science | Machine Learning | LLM | NLP
 
 
 
