@@ -1,5 +1,8 @@
 # 💫 About Me:
-M.S. incoming student in Data Science at UCLA | Data Science | Machine Learning | LLM | NLP
+
+Master of Data Science in Health at UCLA | Data Analytics| Machine Learning | LLM 
+
+Data science graduate student at UCLA with experience in large-scale data analysis, machine learning, and data engineering. Passionate about translating complex data into actionable insights and collaborating across teams to solve real-world problems.
 
 
 
