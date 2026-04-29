@@ -2,7 +2,7 @@
 
 ### Master of Data Science in Health at UCLA | Data Analytics | Machine Learning | LLM 
 
-### Hi! I'm Frank Hsu, a Data science graduate student at UCLA with experience in large-scale data analysis, machine learning, and data engineering. Passionate about translating complex data into actionable insights and collaborating across teams to solve real-world problems.
+Hi! I'm Frank Hsu, a Data science graduate student at UCLA with experience in large-scale data analysis, machine learning, and data engineering. Passionate about translating complex data into actionable insights and collaborating across teams to solve real-world problems.
 
 
 
@@ -16,8 +16,13 @@
 
 <h3 align="left">Top Repositories</h3>
 <a href="https://github.com/3Frank3/Text-Analysis-NCKU-Research-and-Development-Foundation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3Frank3&repo=Text-Analysis-NCKU-Research-and-Development-Foundation&show_icons=true&locale=en&layout=compact"" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3Frank3&repo=Text-Analysis-NCKU-Research-and-Development-Foundation&show_icons=true&locale=en&layout=compact" />
 </a>
+
+<a href="https://github.com/3Frank3/Machine-Learning-on-MIMIC-IV-Data-ICU-Ventilation-Duration-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=3Frank3&repo=Machine-Learning-on-MIMIC-IV-Data-ICU-Ventilation-Duration-Analysis&show_icons=true" />
+</a>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=3Frank3&icon=0&color=0)](https://visitcount.itsvg.in)
