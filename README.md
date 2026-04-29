@@ -13,6 +13,7 @@ Hi! I'm Frank Hsu, a Data science graduate student at UCLA with experience in la
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
