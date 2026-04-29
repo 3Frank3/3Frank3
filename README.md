@@ -1,8 +1,10 @@
-## 💫 About Me:
+## 💫 Hey there
 
-### Currently Master of Data Science in Health at UCLA | Data Science | Machine Learning | LLM 
+I'm Frank Hsu, a Data science graduate student at UCLA.
 
-Hi! I'm Frank Hsu, a Data science graduate student at UCLA with experience in large-scale data analysis, machine learning, and data engineering. Passionate about translating complex data into actionable insights and collaborating across teams to solve real-world problems.
+Experience in large-scale data analysis, machine learning, and data engineering. 
+
+Passionate about translating complex data into actionable insights and collaborating across teams to solve real-world problems.
 
 ## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -34,7 +36,6 @@ Hi! I'm Frank Hsu, a Data science graduate student at UCLA with experience in la
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge)
 ![Shiny](https://img.shields.io/badge/Shiny-00A1D6?style=for-the-badge)
 
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chih-wei-hsu-4652041b6/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ChihWeiHsu33@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/frank.hsu.3975/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Frank33__) 
