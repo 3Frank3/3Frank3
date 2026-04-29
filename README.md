@@ -1,6 +1,6 @@
 ## 💫 Hey there
 
-I'm Frank Hsu, a Data science graduate student at UCLA.
+I'm Frank Hsu, a current Data science graduate student at UCLA.
 
 Experience in large-scale data analysis, machine learning, and data engineering. 
 
