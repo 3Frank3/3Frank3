@@ -15,8 +15,9 @@ Hi! I'm Frank Hsu, a Data science graduate student at UCLA with experience in la
 
 
 <h3 align="left">Top Repositories</h3>
+<p align="left">
 <a href="https://github.com/3Frank3/Text-Analysis-NCKU-Research-and-Development-Foundation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=3Frank3&repo=Text-Analysis-NCKU-Research-and-Development-Foundation&show_icons=true&locale=en&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3Frank3&repo=Text-Analysis-NCKU-Research-and-Development-Foundation&show_icons=true&locale=en&layout=compact" />
 </a>
 
 <a href="https://github.com/3Frank3/Machine-Learning-on-MIMIC-IV-Data-ICU-Ventilation-Duration-Analysis">
