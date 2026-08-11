@@ -1,8 +1,9 @@
-# Frank Hsu | Data Science, AI & Quantitative Research
+# Frank Hsu | Data Science · AI/ML · Applied Analytics
 
-**Finance · Healthcare · Decision Systems**
+**Turning messy real-world data into predictive models, dashboards, and actionable insights**
+**Finance · Healthcare · Quantitative Research · Operational Systems**
 
-I am a UCLA Master of Data Science in Health student who turns complex data and ambiguous problems into reliable, decision-ready solutions. My work combines rigorous analysis, creative problem solving, and innovation across healthcare, finance, quantitative research, and operational systems. I enjoy collaborating in cross-functional teams, translating technical findings into clear actions, and building end-to-end solutions that create measurable impact.
+I am a UCLA Master of Data Science student who turns complex data and ambiguous problems into reliable, decision-ready solutions. My work combines rigorous analysis, creative problem solving, and innovation across healthcare, finance, quantitative research, and operational systems. I enjoy collaborating in cross-functional teams, translating technical findings into clear actions, and building end-to-end solutions that create measurable impact.
 
 - Built predictive and causal analyses on **253,680 health records**, with XGBoost reaching **PR-AUC 0.428** and **recall 0.772**
 - Developed an ICU modeling pipeline on MIMIC-IV data, achieving approximately **ROC-AUC 0.80** and **Brier score 0.17**
@@ -37,4 +38,4 @@ I am a UCLA Master of Data Science in Health student who turns complex data and 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/chih-wei-hsu-4652041b6/) · [Email](mailto:f20020303@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/chih-wei-hsu-4652041b6/) · [Email](mailto:chihweihsu33@gmail.com)
