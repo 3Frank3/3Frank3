@@ -1,7 +1,8 @@
 # Frank Hsu | Data Science · AI/ML · Applied Analytics
 
 **Turning messy real-world data into predictive models, dashboards, and actionable insights**
-**Finance · Healthcare · Quantitative Research · Operational Systems**
+
+***Finance · Healthcare · Quantitative Research · Operational Systems***
 
 I am a UCLA Master of Data Science student who turns complex data and ambiguous problems into reliable, decision-ready solutions. My work combines rigorous analysis, creative problem solving, and innovation across healthcare, finance, quantitative research, and operational systems. I enjoy collaborating in cross-functional teams, translating technical findings into clear actions, and building end-to-end solutions that create measurable impact.
 
